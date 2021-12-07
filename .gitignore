@@ -26,3 +26,7 @@
 .idea/**/libraries
 
 banking-api-service/target/**
+account-manager/target/**
+reporting-service/target/
+
+kafka-start/tmp/**
